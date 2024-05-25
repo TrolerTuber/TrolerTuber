@@ -5,7 +5,7 @@ Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1023398251556253748)](https://discord.com/users/1023398251556253748)
 
-<!--
+```
 
 
 - 🔭 I’m currently working on: ElRayoRP 
