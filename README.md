@@ -34,7 +34,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/TrolerTuber/TrolerTuber/output/snake.svg" alt="Snake animation" />
-
-###
